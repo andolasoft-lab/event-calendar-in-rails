@@ -41,7 +41,6 @@ Create a migration file to add necessary columns as follows
                 t.datetime :end_at
 
                 t.timestamps
-
           end
 
        end
