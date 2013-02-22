@@ -48,7 +48,7 @@ Create a migration file to add necessary columns as follows
 
        def self.down
 
-            drop_table :events
+            drop_table :events 
 
        end
 
